@@ -1,0 +1,2 @@
+defmodule CookieTycoon do
+end
